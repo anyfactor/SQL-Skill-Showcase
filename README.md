@@ -6,7 +6,7 @@ This repo stores the quizzes, notes, practical use case etc. to highlight my SQL
 1. Advanced SQL Puzzles
 2. Leetcode
 3. SQLPad.io
-  4. Starta
+4. Starta
 
 # Tools Used
 
