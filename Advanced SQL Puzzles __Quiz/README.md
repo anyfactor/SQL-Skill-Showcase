@@ -10,3 +10,5 @@ Table Schema was generated with automated online tools.
 
 1. [Dance Partners ||  Matching Uneven rows based on opposite Criteria || View, Row Number, Left Join](Dancing Partners.sql)
 2. [Managers and Employees || Level of Depth || IfNull, Floor](Managers and Employees.sql)
+3. [Fiscal Year Pay Rates || Constraints for correct data || SKIPPED](Fiscal Year Pay Rates.sql
+4. [Two Predicats || Multiple Conditions || CTE, JOIN](Two Predicates.sql)
