@@ -14,4 +14,4 @@ TX_order as (
 SELECT TX_order.`Customer ID`, TX_order.`Order ID`,
 	TX_order.`Delivery State`, TX_order.`Amount` FROM TX_order
 JOIN CA_order
-WHERE CA_order.`Customer ID` = TX_order.`Customer ID`
+ON CA_order.`Customer ID` = TX_order.`Customer ID`
