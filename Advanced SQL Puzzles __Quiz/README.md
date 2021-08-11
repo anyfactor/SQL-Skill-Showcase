@@ -14,3 +14,4 @@ Dance Partners | Matching Uneven rows based on opposite Criteria | View, Row Num
 Managers and Employees | Level of Depth | IfNull, Floor
 Two Predicates | Multiple Conditions | CTE, JOIN
 Phone Directory | Transform data from row to column based on the type of phone number | CTE, Multiple JOINs
+Workflow Steps | Find rows with missing values but with `COUNT` | IS NULL, GROUPBY, COUNT

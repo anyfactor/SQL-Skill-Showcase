@@ -14,7 +14,7 @@ This repo stores the quizzes, notes, practical use case etc. to highlight my SQL
 ## SQL Related Tools
 
 1. [DB fiddle](https://www.db-fiddle.com/)
-2. [SQLines](https://www.sqlines.com/online)
+2. [SQLines](https://www.sqlines.com/online) || Online SQL conversion tool
 3. [SQLBook](https://sqlbook.io/)
 
 ## Interesting YouTube Videos
