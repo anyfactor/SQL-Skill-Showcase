@@ -1,6 +1,4 @@
-# A not so smart guide to SQL
-
-## CTE
+# CTE
 
 *This article was influenced by [u/stiffupperleg answer](https://old.reddit.com/r/SQL/comments/or59p3/how_do_i_develop_the_sql_way_of_thinking_as/h6o5tiv/) who knows SQL. Where I only pretend to SQL. And also this tutorial by [Alex the analysts](https://www.youtube.com/watch?v=K1WeoKxLZ5o)*
 
@@ -28,8 +26,3 @@ SELECT * FROM CTE_Employee
 ```
 
 CTE enables you to do the heavy lifting of the queries first and later allows you to easily access that data. Because CTEs are created in Memory they are not saved anywhere and cannot be accessed without running the CTE statement first. To access the CTE data you have to write the statement after you have written the CTE statement directly after.
-
-## `PARTITION BY`
-
-*This section is written based on this tutorial by [Alex the analysts](https://www.youtube.com/watch?v=D6XNlTfglW4&list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL&index=7)
-
